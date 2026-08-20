@@ -45,6 +45,8 @@ banking-system/
 └── LICENSE
 
 
+## ✨ Example
+
 ===== BANKING SYSTEM =====
 
 1. Create Account
