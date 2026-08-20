@@ -32,6 +32,32 @@ withdrawing money, transferring money, and viewing transaction history.
 - Object-Oriented Programming
 - Command Line Interface (CLI)
 
+
+## 🖥️ Example
+===== BANKING SYSTEM =====
+
+
+1. Create Account
+2. Login
+3. Exit
+
+
+Choose an option: 1
+
+
+===== CREATE ACCOUNT =====
+
+
+Enter your name: John
+Create a 4-digit PIN: ****
+
+
+Account created successfully!
+
+
+Your account number: 100001
+
+
 ## 📂 Project Structure
 
 ```text
@@ -43,23 +69,3 @@ banking-system/
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
-
-
-## ✨ Example
-
-===== BANKING SYSTEM =====
-
-1. Create Account
-2. Login
-3. Exit
-
-Choose an option: 1
-
-===== CREATE ACCOUNT =====
-
-Enter your name: John
-Create a 4-digit PIN: ****
-
-Account created successfully!
-
-Your account number: 100001
